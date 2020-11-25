@@ -1,0 +1,13 @@
+.todolist {
+  text-align: center;
+}
+.todolist > .todo__list {
+  position: relative;
+  text-align: center;
+}
+.box {
+  margin-left: 300px;
+  position: absolute;
+  bottom: 30px;
+  left: 650px;
+}
